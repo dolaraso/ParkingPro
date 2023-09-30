@@ -1,6 +1,7 @@
 # ParkingPro
 Este repositorio alberga el código fuente de ParkingPro, una aplicación de gestión de estacionamientos que te permite calcular el costo del estacionamiento y proporciona una experiencia de pago sencilla. Con una interfaz de usuario amigable, esta aplicación te guía a través del proceso de pago y te da el cambio exacto en billetes y monedas.
-aracterísticas destacadas:
+
+Características destacadas:
 
 Cálculo Preciso: ¿Necesitas saber cuánto cuesta tu tiempo de estacionamiento? ParkingPro te tiene cubierto. Solo ingresa el total a cobrar y el monto que pagas, y te diremos exactamente cuánto cambio recibirás.
 
